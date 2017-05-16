@@ -1,0 +1,5 @@
+git init
+git add .
+git remote add origin git@gitorious.org:project/project.git
+git commit -m "Initial version"
+git push origin master
